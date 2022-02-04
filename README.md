@@ -10,7 +10,7 @@
 - ✨Soy comunicativo y muy adapatble a diferentes entornos. Siempre curioso, buscando adquirir nuevos conocimientos.
 - 💖 Me encantan los desafíos y con ello poder aportar valor trabajando tanto en equipo como individualmente.
 - 💪🏼 Metas futuras: Seguir aprendiendo nuevas tecnologías y lenguajes, así como poder insertarme a un equipo y colaborar en proyectos desafiantes.
-- 🎮  Me encanta viajar, conocer nuevas culturas, personas, respirsar el aire puro y la tranquilidad de entronos naturales, así como la agitación y euforia de las ciudades.
+- 🎮 🎬  Me encanta los games ( soy gamer desde que naci ) y el cine ( todo tipos de genero ) , fanatico de Marvel , Star Wars y las peliculas de Pixar 
 - 💬 Puedes preguntarme sobre: **JavaScript, React, Redux, Node, Express, PostgreSQL**
 
 
