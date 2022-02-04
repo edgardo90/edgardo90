@@ -1,4 +1,4 @@
-<h1 align="center">Hola Comunidad!Mi nombre es Edgardo Gaston Gonzalez</h1> <p align="center"><img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
+<h1 align="center">Hola Comunidad! Mi nombre es Edgardo Gaston Gonzalez</h1> <p align="center"><img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
 <h3 align="center">⚡Full Stack Web Developer</h3>
 
@@ -10,9 +10,8 @@
 - ✨Soy comunicativo y muy adapatble a diferentes entornos. Siempre curioso, buscando adquirir nuevos conocimientos.
 - 💖 Me encantan los desafíos y con ello poder aportar valor trabajando tanto en equipo como individualmente.
 - 💪🏼 Metas futuras: Seguir aprendiendo nuevas tecnologías y lenguajes, así como poder insertarme a un equipo y colaborar en proyectos desafiantes.
-- ⚡ Me encanta viajar, conocer nuevas culturas, personas, respirsar el aire puro y la tranquilidad de entronos naturales, así como la agitación y euforia de las ciudades.
+- 🎮  Me encanta viajar, conocer nuevas culturas, personas, respirsar el aire puro y la tranquilidad de entronos naturales, así como la agitación y euforia de las ciudades.
 - 💬 Puedes preguntarme sobre: **JavaScript, React, Redux, Node, Express, PostgreSQL**
-- ⭐️ &nbsp; &nbsp; *[Mi CV!!!](https://drive.google.com/file/d/1BsZTAmLX4a9II44XLkXIN_pnhg5-L1lf/view?usp=sharing)*
 
 
 
