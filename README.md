@@ -1,4 +1,4 @@
-<h1 align="center">Hola Comunidad!👋Soy José Luis</h1> <p align="center"><img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
+<h1 align="center">Hola Comunidad!Mi nombre es Edgardo Gaston Gonzalez</h1> <p align="center"><img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
 <h3 align="center">⚡Full Stack Web Developer</h3>
 
