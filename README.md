@@ -28,7 +28,7 @@ Babel | CSS | Express | Git | HTML | JavaScript | Linux | MySQL | NodeJS | Postg
 
 ### 📫 Contáctame!
 
-[![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jriveronrodriguez@gmail.com) 
+[![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:edgardo9000@gmail.com) 
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edgardo-gaston-gonzalez)
 
 
