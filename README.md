@@ -38,9 +38,9 @@ Babel | CSS | Express | Git | HTML | JavaScript | Linux | MySQL | NodeJS | Postg
 <br />
 <p align=center>
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-        <img height=205 width=380 align="center" src="https://github-readme-stats.vercel.app/api?username=Abeta142Tau&show_icons=true&theme=tokyonight">
+        <img height=205 width=380 align="center" src="https://github-readme-stats.vercel.app/api?username=edgardo90&show_icons=true&theme=tokyonight">
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-<img height=205  width=380 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abeta142Tau&hide=c%23,powershell,java&title_color=2aa889&text_color=99d1ce&icon_color=2bbc8a&bg_color=0c1014&langs_count=8&layout=compact" />
+<img height=205  width=380 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edgardo90&hide=c%23,powershell,java&title_color=2aa889&text_color=99d1ce&icon_color=2bbc8a&bg_color=0c1014&langs_count=8&layout=compact" />
     </a>
 </p>
