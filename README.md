@@ -1,5 +1,4 @@
 <h1 align="center">Hola Comunidad! Mi nombre es Edgardo Gaston Gonzalez</h1> <p align="center"><img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
-    <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=edgardo90" alt="edgardo90" /></a> </p>
 
 <h3 align="center">⚡Full Stack Web Developer</h3>
 
