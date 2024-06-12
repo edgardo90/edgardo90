@@ -1,7 +1,7 @@
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=edgardo90" alt="edgardo90" /></a> </p>
 
 <h3 align="center">⚡Full Stack Web Developer</h3>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=edgardo90" alt="edgardo90" /></a> </p>
 
 
 
