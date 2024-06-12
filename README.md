@@ -5,14 +5,6 @@
 
 
 
-- 👨‍💻 Actualmente estoy realizando el bootcamp de Henry para convertirme en Full Stack Web Developer 💻
-- 📚 Estoy aprendiendo todo lo relacionado con tecnologías Back-end y Frontend.
-- 👯 Me considero una persona empática y colaborativa, siempre en la búsqueda de soluciones que provoquen un crecimiento tanto profesional como personal.
-- ✨Soy comunicativo y muy adapatble a diferentes entornos. Siempre curioso, buscando adquirir nuevos conocimientos.
-- 💖 Me encantan los desafíos y con ello poder aportar valor trabajando tanto en equipo como individualmente.
-- 💪🏼 Metas futuras: Seguir aprendiendo nuevas tecnologías y lenguajes, así como poder insertarme a un equipo y colaborar en proyectos desafiantes.
-- 🎮 🎬  Me encanta los games ( soy gamer desde que naci ) y el cine ( todo tipos de genero ) , fanatico de Marvel , Star Wars y las peliculas de Pixar 
-- 💬 Puedes preguntarme sobre: **JavaScript, React, Redux, Node, Express, PostgreSQL**
 
 
 
